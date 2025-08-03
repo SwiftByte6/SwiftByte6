@@ -75,6 +75,4 @@ Obsessed with clean code, dark UI, backend logic & hackathons. Currently focused
 
 <br clear="both">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SwiftByte6/SwiftByte6/output/snake.svg" alt="Snake animation" />
-</p>
+
